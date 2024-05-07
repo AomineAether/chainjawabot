@@ -51,6 +51,6 @@ To support akasakaid you can buy me a coffee via website in below:
 
 ## Report
 
-If you get error you can contact me on my social media in my github profile
+If you get error you can contact https://t.me/akasakaid.
 
-## Thank you < 3
+## Special thanks to @akasakaid
