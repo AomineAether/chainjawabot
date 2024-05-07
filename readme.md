@@ -33,7 +33,7 @@ Auto tap-tap for onchaincoin_bot telegram.
 5. Run the program
 	```
 	Windows : python bot.py
-	MaCOS/Linux : python3
+	MaCOS/Linux : python3 bot.py
 	```
 ## config.json file explanation
 
